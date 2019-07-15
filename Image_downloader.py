@@ -1,6 +1,5 @@
 import urllib.request
 
-
 url = str(input('Enter Url '))
 filename = input('Enter File Name ')
 print('Downloading Image...')
